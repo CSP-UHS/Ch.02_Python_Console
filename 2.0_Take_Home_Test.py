@@ -3,16 +3,19 @@ HONOR CODE: I solemnly promise that while taking this test I will only use PyCha
 but I will definitely not ask another person except the instructor. Typed: Jackson M. Rutto
 
 1.) How do you enter a single line comment in a program?
-
+Use a hashtag
 
 
 
 2.) What do the following lines of code output? ALSO: Why do they give a different answer?
-2 / 3
-2 // 3
-3/2
-3//2
-
+2 / 3 = 0.6666
+- Divide by three
+2 // 3 = 0
+- Floor the number
+3/2 = 1.5
+- Divide by two
+3//2 = 1
+-Floor the number
 
 
 
@@ -20,7 +23,8 @@ but I will definitely not ask another person except the instructor. Typed: Jacks
 3.) What happens when you try this and why?
 A = 22
 b = 13
-c = a+b
+c = a+b =
+-
 
 
 
