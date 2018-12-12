@@ -83,7 +83,7 @@ a-=7
 a
 type(a)
 
-
+a = {float} 15
 
 
 
@@ -96,16 +96,20 @@ pi = x
 area = pi  * radius ** 2
 area
 
-
-
+Change to:
+r = 10
+pi = 3.14
+a = pi
+a = pi * r ** 2
+a
 
 
 
 8.) What is the ouput of each of these?
-type(42)
-type(42.0)
-type("C3PO")
-type(True)
+type(42) - int
+type(42.0) - float
+type("C3PO") - str
+type(True) - bool
 
 
 
@@ -116,7 +120,7 @@ type(True)
 9.) Fix the mistake in the following code:
 x = 4
 y = 5
-a = 3(x + y)
+a = 3(x + y) - Change this part to: a = 3 * (x + y)
 a
 
 
@@ -128,7 +132,7 @@ a
 x,y,z =(3,4,5)
 ave = x+y+z/3
 ave
-
+- Because it is using PEMDAS and is dividing z by 3 first then adding x and y
 
 
 
