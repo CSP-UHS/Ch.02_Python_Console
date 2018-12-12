@@ -3,7 +3,7 @@ HONOR CODE: I solemnly promise that while taking this test I will only use PyCha
 but I will definitely not ask another person except the instructor. Typed: Jackson M. Rutto
 
 1.) How do you enter a single line comment in a program?
-Use a hashtag
+Use a #hashtag
 
 
 
@@ -23,8 +23,8 @@ Use a hashtag
 3.) What happens when you try this and why?
 A = 22
 b = 13
-c = a+b =
--
+c = a+b = 35
+- This happens because a and b are now set variables
 
 
 
@@ -32,7 +32,7 @@ c = a+b =
 
 
 4.) All of the variable names below can be used. But which ONE of these is the better variable name to use?
-a
+a - This one
 A
 Area
 AREA
@@ -69,8 +69,7 @@ great.big.variable
 x2x
 total%
 #left
-
-
+- None work except for #left
 
 
 
