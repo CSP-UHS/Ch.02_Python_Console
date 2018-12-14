@@ -105,15 +105,12 @@ a
 
 
 
+
 8.) What is the ouput of each of these?
 type(42) - int
 type(42.0) - float
 type("C3PO") - str
 type(True) - bool
-
-
-
-
 
 
 
