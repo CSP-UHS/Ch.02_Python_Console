@@ -47,29 +47,29 @@ Area_Of_Rectangle
 5.) Which of these variables names are NOT allowed in Python? 
 Test them if you aren't sure.
 
-apple
-Apple
-APPLE
-Apple2
-1Apple
-account number
-account_number
-account.number
-accountNumber
-account#
-pi
-PI
-fred
-Fred
-GreatBigVariable
-greatBigVariable
-great_big_variable
-great.big.variable
-2x
-x2x
-total%
-#left
-- None work except for #left
+apple - yes
+Apple - yes
+APPLE - yes
+Apple2 - yes
+1Apple - no
+account number - no
+account_number - yes
+account.number - no
+accountNumber - yes
+account# - no
+pi - yes
+PI - yes
+fred - yes
+Fred - yes
+GreatBigVariable - yes
+greatBigVariable - yes
+great_big_variable - yes
+great.big.variable - no
+2x - no
+x2x - yes
+total% - no
+#left - no
+
 
 
 
