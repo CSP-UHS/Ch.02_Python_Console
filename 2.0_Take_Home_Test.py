@@ -98,7 +98,7 @@ area
 
 
 
-8.) What is the ouput of each of these?
+8.) What is the output of each of these?
 type(42)
 type(42.0)
 type("C3PO")
