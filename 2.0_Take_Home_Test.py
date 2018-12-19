@@ -23,8 +23,8 @@ Use a #hashtag
 3.) What happens when you try this and why?
 A = 22
 b = 13
-c = a+b = 35
-- This happens because a and b are now set variables
+c = a+b
+-This does not work because the a needs to be uppercase in the equation
 
 
 
@@ -32,12 +32,12 @@ c = a+b = 35
 
 
 4.) All of the variable names below can be used. But which ONE of these is the better variable name to use?
-a - This one
+a
 A
 Area
 AREA
 area
-area_of_rectangle
+area_of_rectangle - This one because it describes the variable
 Area_Of_Rectangle
 
 
@@ -97,9 +97,8 @@ area = pi  * radius ** 2
 area
 
 Change to:
-r = 10
+radius = 10
 pi = 3.14
-a = pi
 a = pi * r ** 2
 a
 
