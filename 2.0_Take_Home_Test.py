@@ -19,7 +19,7 @@ Use a #hashtag
 
 
 
-
+INCORRECT. Did you try it?
 3.) What happens when you try this and why?
 A = 22
 b = 13
@@ -30,7 +30,7 @@ c = a+b
 
 
 
-
+INCORRECT. The best variable would describe it.
 4.) All of the variable names below can be used. But which ONE of these is the better variable name to use?
 a
 A
@@ -88,7 +88,7 @@ a = {float} 15
 
 
 
-
+INCORRECT. Your code is not an improvement
 7.) This program runs, but the code still could be better. How?
 radius = 10
 x = 3.14
