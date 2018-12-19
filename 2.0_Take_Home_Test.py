@@ -99,8 +99,8 @@ area
 Change to:
 radius = 10
 pi = 3.14
-a = pi * r ** 2
-a
+area = pi * r ** 2
+area
 
 
 
