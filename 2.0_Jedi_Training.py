@@ -1,5 +1,5 @@
 '''
-Sign your name:________________
+Sign your name: Rowdy Alexander
 
 1.) How do you enter a single line comment in a program?
 
@@ -9,12 +9,12 @@ Sign your name:________________
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
 What are the outputs?
 
-b/a                 =
-b//a                =
-b**a                =
-b%a                 =
-a+B                 =
-type(42)            =
+b/a                 = 2.5
+b//a                = 2
+b**a                = 25
+b%a                 = 1
+a+B                 = 7
+type(42)            = integer
 type(42.0)          =
 type("C3PO")        =
 type(True)          =
