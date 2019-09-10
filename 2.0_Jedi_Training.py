@@ -37,7 +37,7 @@ a = 27
 
 5.) Fix the code so it will calculate the average.
 x,y,z =(3,4,5)
-ave = x+y+z%3
-ave = 9
+ave = (x+y+z)/3
+ave = 4
 
 '''
