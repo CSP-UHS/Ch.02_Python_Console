@@ -13,11 +13,11 @@ b/a                 =2.5
 b//a                =2
 b**a                =25
 b%a                 =1
-a+B                 =7
-type(42)            =int
-type(42.0)          =float
-type("C3PO")        =str
-type(True)          =bol
+a+B                 =it responds with an error because B is not defined
+type(42)            =<class 'int'>
+type(42.0)          =<class 'float'>
+type("C3PO")        =<class 'str'>
+type(True)          =<class 'bool'>
 
 
 
@@ -31,14 +31,14 @@ a+=12
 a-=7
 
 a             =15.0
-type(a)       =float
+type(a)       =<class 'float'>
 
 
 
 4.) Fix the mistake in the following code.
 x,y = (4,5)
 a = 3(x + y)
-a = 27
+a = 3*(x+y) will make a = 27
 
 
 
@@ -48,7 +48,7 @@ a = 27
 5.) Fix the code so it will calculate the average.
 x,y,z =(3,4,5)
 ave = x+y+z/3
-ave = 8.666
+ave = (x+y+z)/3 will make the ave = 4.0
 
 
 
