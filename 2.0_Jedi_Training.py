@@ -3,7 +3,8 @@ Sign your name: Tristan
 
 1.) How do you enter a single line comment in a program?
 Add a #before the line
-
+Ex:
+#This is a comment
 
 
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
@@ -13,7 +14,7 @@ b/a                =             2.5
 b//a                =            2
 b**a                =            25
 b%a                 =            1
-a+b               =               7
+a+B               =               b is defined, but B is not
 type(42)            =         class 'int'
 type(42.0)          =        class 'float'
 type("C3PO")        =     class 'str'
