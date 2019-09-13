@@ -15,11 +15,11 @@ b/a                 = 2.5
 b//a                = 2 #floor : cuts off everything after the decimal
 b**a                = 25
 b%a                 = 1 # modulus : oit gives you the remainder
-a+B                 = 7
-type(42)            = 42
-type(42.0)          = 42.0
-type("C3PO")        = 'C3PO'
-type(True)          = True
+a+B                 = Error #because you used the capital B not the lowercase b
+type(42)            = integer
+type(42.0)          = float
+type("C3PO")        = string
+type(True)          = boolean
 
 
 3.) What is the final output of (a) and type(a) if you enter the following 5 lines
@@ -46,6 +46,5 @@ a = 27
 x,y,z =(3,4,5)
 ave = (x+y+z)/3
 ave = 4
-
 
 '''
