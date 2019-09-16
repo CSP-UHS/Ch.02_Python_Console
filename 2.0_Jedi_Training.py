@@ -11,8 +11,8 @@ What are the outputs?
 
 b/a                 = 2.5
 b//a                = 2
-b**a                = 25
-b%a                 = 1
+b**a                = 25 ** squares it
+b%a                 = 1 % give u the remainder
 a+B                 = B isn't the right variable bc it's capital
 type(42)            = class 'int'
 type(42.0)          = class 'float'
@@ -30,7 +30,7 @@ a/=2
 a+=12
 a-=7
 
-a             = 15
+a             = 15.0
 type(a)       = class 'float'
 
 
