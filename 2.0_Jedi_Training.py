@@ -31,7 +31,7 @@ a/=2
 a+=12
 a-=7
 
-a             =      15
+a             =      15.0
 type(a)       =     class 'float'
 
 
