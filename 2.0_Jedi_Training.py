@@ -31,16 +31,15 @@ a/=2
 a+=12
 a-=7
 
-a             = 22.0
+a             = 15.0
 type(a)       = float
 
 
 
 4.) Fix the mistake in the following code.
 x,y = (4,5)
-a = 3(x + y)
+a = 3*(x + y)
 a = 27
-
 
 
 
