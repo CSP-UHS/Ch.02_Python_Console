@@ -13,7 +13,7 @@ b/a                 = 2.5
 b//a                = 2
 b**a                = 25
 b%a                 = 1
-a+B                 = 7
+a+B                 = err, a+b=7
 type(42)            = integer
 type(42.0)          = float
 type("C3PO")        = string
@@ -30,7 +30,7 @@ a/=2
 a+=12
 a-=7
 
-a             = 15
+a             = 15.0
 type(a)       = Float
 
 
