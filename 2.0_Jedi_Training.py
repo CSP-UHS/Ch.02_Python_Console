@@ -7,15 +7,18 @@ Sign your name:________________
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
 What are the outputs? If the output is an error record the error and try to determine what the error is!
 
-b/a                 =
-b//a                =
-b**a                =
-b%a                 =
-a+B                 =
-type(42)            =
-type(42.0)          =
-type("C3PO")        =
-type(True)          =
+b/a                 = divide
+b//a                = floors
+b**a                = exponet
+b%a                 = gets the remainer
+a+B                 = addition
+# >If the output is an error record the error and try to determine what the error is!
+  > a+B
+  should be a+b unless if its different number
+type(42)            = gets type (int)
+type(42.0)          = gets type (float)
+type("C3PO")        = gets type (string)
+type(True)          = gets type (bool)
 
 
 3.) What is the final output of (a) and type(a) if you enter the following 5 lines
