@@ -7,15 +7,15 @@ Use Hashtag #Hello there
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
 What are the outputs? If the output is an error record the error and try to determine what the error is!
 
-b/a                 =
-b//a                =
-b**a                =
-b%a                 =
-a+B                 =
-type(42)            =
-type(42.0)          =
-type("C3PO")        =
-type(True)          =
+b/a                 = 2.5                   = Correct
+b//a                = 2                     = Correct
+b**a                = 25                    = Correct
+b%a                 = 1                     = Correct
+a+B                 = incorrect variable    = Correct
+type(42)            = int                   = Correct
+type(42.0)          = float                 = Correct
+type("C3PO")        = str                   = Correct
+type(True)          = bool                  = Correct
 
 
 3.) What is the final output of (a) and type(a) if you enter the following 5 lines
@@ -26,8 +26,8 @@ a*=10
 a/=2
 a+=12
 a-=7
-a             =
-type(a)       =
+a             = 15      = 15.0
+type(a)       = int     =float
 
 
 4.) What is the mistake in the following code. Fix it!
@@ -36,6 +36,7 @@ x,y = (4,5)
 a = 3(x + y)
 a
 
+It needs to be 3*(x+y)
 
 5.) What is the mistake in the following code so it will calculate the average. Fix it!
 
