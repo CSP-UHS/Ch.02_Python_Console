@@ -1,8 +1,8 @@
 '''
-Sign your name:________________
+Sign your name: Alex Mears
 
 1.) How do you enter a single line comment in a program? Give an example.
-
+Use Hashtag #Hello there
 
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
 What are the outputs? If the output is an error record the error and try to determine what the error is!
@@ -43,5 +43,6 @@ x,y,z =(3,4,5)
 ave = x+y+z/3
 ave
 
+Because of the order of operations, it is only deviding the z by 3, should be writien as (x+y+z)/3
 
 '''
