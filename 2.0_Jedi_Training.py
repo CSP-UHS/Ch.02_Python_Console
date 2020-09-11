@@ -44,6 +44,7 @@ a
 5.) What is the mistake in the following code so it will calculate the average. Fix it!
 
 x,y,z =(3,4,5)
+ave = x+y+z/3     #it divides the z by 3 first, which incorrectly adds everything or something
 ave = (x+y+z)/3  #added parenthesis around the addition to make it work
 ave
 
