@@ -1,5 +1,5 @@
 '''
-Sign your name:________________
+Sign your name: Aaron Caltrider!
 
 1.) How do you enter a single line comment in a program? Give an example.
 
