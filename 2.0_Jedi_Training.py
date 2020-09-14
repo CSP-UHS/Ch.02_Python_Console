@@ -1,5 +1,5 @@
 '''
-Sign your name:________________
+Sign your name: Tom Dau
 
 1.) How do you enter a single line comment in a program? Give an example.
 
@@ -7,11 +7,11 @@ Sign your name:________________
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
 What are the outputs? If the output is an error record the error and try to determine what the error is!
 
-b/a                 =
-b//a                =
-b**a                =
-b%a                 =
-a+B                 =
+b/a                 2.5=
+b//a                2=
+b**a                25=
+b%a                 1=
+a+B                 Error=
 type(42)            =
 type(42.0)          =
 type("C3PO")        =
