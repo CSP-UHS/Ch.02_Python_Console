@@ -1,7 +1,7 @@
 '''
 Sign your name: Ryan Mullins
 1.) How do you enter a single line comment in a program? Give an example.
-
+Put a # sign then type the comment after it. Example: #comment
 
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
 What are the outputs? If the output is an error record the error and try to determine what the error is!
