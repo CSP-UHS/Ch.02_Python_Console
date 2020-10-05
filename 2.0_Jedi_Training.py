@@ -33,15 +33,15 @@ type(a)       = <class 'float'>
 4.) What is the mistake in the following code. Fix it!
 
 x,y = (4,5)
-a = 3(x+y)
+a = 3*(x+y)
 a #9
 
 
 5.) What is the mistake in the following code so it will calculate the average. Fix it!
 
 x,y,z =(3,4,5)
-ave = (x+y+z/3)
-ave #8.666666666666
+ave = (x+y+z)/3
+ave #4
 
 
 '''
