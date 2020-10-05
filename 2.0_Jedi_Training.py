@@ -1,8 +1,9 @@
 '''
-Sign your name:________________
+Sign your name: Gerardo Lopez
 
 1.) How do you enter a single line comment in a program? Give an example.
-
+    Use #
+    #Hello World!
 
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
 What are the outputs? If the output is an error record the error and try to determine what the error is!
