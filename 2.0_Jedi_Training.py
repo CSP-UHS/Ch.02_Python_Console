@@ -33,7 +33,7 @@ type(a)       = <class 'float'>
 4.) What is the mistake in the following code. Fix it!
 
 x,y = (4,5)
-a = 3(x + y)
+a = 3,(x + y)
 a
 
 
