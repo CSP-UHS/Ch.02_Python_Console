@@ -11,7 +11,7 @@ b/a                 =2.5
 b//a                =2
 b**a                =25
 b%a                 =1
-a+B                 =7
+a+b                 =7
 type(42)            = <class 'int'>
 type(42.0)          = <class 'float'>
 type("C3PO")        = <class 'str'>
@@ -33,7 +33,7 @@ type(a)       = <class 'float'>
 4.) What is the mistake in the following code. Fix it!
 
 x,y = (4,5)
-a = 3(x + y) This line is the mistake, the correct way of coding is a = 3*(x + y)
+a = 3(x + y) This line is the mistake, the correct way of coding is a = 3 * x + 3 * y
 a
 
 
