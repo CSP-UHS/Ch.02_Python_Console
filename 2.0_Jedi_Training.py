@@ -31,17 +31,16 @@ type(a)       =float
 
 
 4.) What is the mistake in the following code. Fix it!
-
+the code didnt know how to distribute
 x,y = (4,5)
-a = 3(x + y)
-a
+a = (3*y) + (3*x)
+a = 27
 
 
 5.) What is the mistake in the following code so it will calculate the average. Fix it!
-
+there was no parenthesis seperating the equating by the /3
 x,y,z =(3,4,5)
-ave = x+y+z/3
-ave
-
+ave = (x+y+z)/3
+ave = 4
 
 '''
