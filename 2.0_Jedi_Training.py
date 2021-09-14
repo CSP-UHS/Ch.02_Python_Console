@@ -13,9 +13,9 @@ b**a                =25
 b%a                 =1
 a+B                 = there is an error because the B is a capital letter and is not defined.
 type(42)            =<class 'int'>
-type(42.0)          =
-type("C3PO")        = c3po is not defined
-type(True)          =True
+type(42.0)          =float
+type("C3PO")        = str
+type(True)          =bool
 
 
 3.) What is the final output of (a) and type(a) if you enter the following 5 lines
