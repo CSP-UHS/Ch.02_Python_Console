@@ -33,14 +33,14 @@ type(a)       =floaties
 4.) What is the mistake in the following code. Fix it!
 The mistake is that python doesn't recognize that as multipulcation so you must use the asterisks to make it understand
 x,y = (4,5)
-a = 3(x + y)
+a = 3(x + y) CORRECT METHOD: a= (3*x+3*y)
 a = 27
 
 
 5.) What is the mistake in the following code so it will calculate the average. Fix it!
 It's dividing the Z at the end instead of the whole thing(average) so you must put the variables in parentheses and divide by 3 outside
 x,y,z =(3,4,5)
-ave = x+y+z/3
+ave = x+y+z/3 CORRECT METHOD: ave = (x+y+z)/3
 ave = 4.0
 
 
