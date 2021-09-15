@@ -1,0 +1,53 @@
+~/ $ python3
+Python 3.8.5 (v3.8.5:580fbb018f)
+[Clang 6.0 (clang-600.0.57)] on darwin (MacOS 11.4 Big Sur)
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a=2
+>>> b=5
+>>> b/a
+2.5
+>>> b//a
+2
+>>> b**a
+25
+>>> b%a
+1
+>>> a+B
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'B' is not defined
+>>> type(42)
+<class 'int'>
+>>> type(42.0)
+<class 'float'>
+>>> type("C3PO")
+<class 'str'>
+>>> type(True)
+<class 'bool'>
+>>> a=2
+>>> a*=10
+>>> a/=2
+>>> a+=12
+>>> a-=7
+>>> a
+15.0
+>>> type(a)
+<class 'float'>
+>>> 
+>>> x,y = (4,5)
+>>> a = 3(x+y)
+<stdin>:1: SyntaxWarning: 'int' object is not callable; perhaps you missed a comma?
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'int' object is not callable
+>>> a = 3 * (x+y)
+>>> a
+27
+>>> x,y,z = (3,4,5)
+>>> ave = x+y+z/3
+>>> ave
+8.666666666666666
+>>> ave = (x+y+z)/3
+>>> ave
+4.0
+>>> quit()
