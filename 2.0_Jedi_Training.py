@@ -3,6 +3,7 @@ Sign your name: Matthew
 
 1.) How do you enter a single line comment in a program? Give an example.
 
+Use # symbol at the beginning of the line
 
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
 What are the outputs? If the output is an error record the error and try to determine what the error is!
@@ -11,7 +12,7 @@ b/a                 = 2.5
 b//a                = 2
 b**a                = 25
 b%a                 = 1
-a+B                 = 7
+a+B                 = NameError: name 'B' is not defined
 type(42)            = <class 'int'>
 type(42.0)          = <class 'float'>
 type("C3PO")        = <class 'str'>
