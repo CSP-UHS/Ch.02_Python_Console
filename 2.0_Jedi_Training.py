@@ -28,7 +28,7 @@ a+=12         = -2.0
 a-=7          = 3.0
 a             = 2
 type(a)       = integer
-
+#
 
 4.) What is the mistake in the following code. Fix it!
 
