@@ -40,11 +40,11 @@ x,y=(4,5)
 a=3*(x+y)
 print(a)
 # there is spaces between the equal and plus sign sign in line 39 and 40 and there was no multiplication
-# sign between the parnthasees and 3
+# sign between the parentheses and 3
 '''
 5.) What is the mistake in the following code so it will calculate the average. Fix it!
 '''
 x,y,z =(3,4,5)
 ave=(x+y+z/3)
 print(ave)
-# there was no parenthasees around the equation
+# there was no parentheses around the equation
