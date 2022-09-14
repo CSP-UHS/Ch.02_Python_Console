@@ -26,9 +26,9 @@ a*=10         = 20
 a/=2          = 10.0
 a+=12         = -2.0
 a-=7          = 3.0
-a             = 2
-type(a)       = integer
-#
+
+type(a)       = float
+
 
 4.) What is the mistake in the following code. Fix it!
 
@@ -48,3 +48,4 @@ you need to put (x+y+z) in parentheses, otherwise it divides all of them by 3 an
 
 
 '''
+#test
