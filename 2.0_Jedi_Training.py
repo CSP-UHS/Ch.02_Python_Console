@@ -22,6 +22,7 @@ print(type(True))
 '''
 3.) What is the final output of (a) and type(a) if you enter the following 5 lines
 into the Python Console Window?
+15
 '''
 a=2
 a*=10
@@ -33,6 +34,7 @@ print(type(a))
 
 '''
 4.) What is the mistake in the following code. Fix it!
+I added a multiplication sign
 '''
 x,y=(4,5)
 a=3*(x+y)
@@ -40,9 +42,10 @@ print(a)
 
 '''
 5.) What is the mistake in the following code so it will calculate the average. Fix it!
+I added parentheses because the order of operations was messing it up
 '''
 x,y,z=(3,4,5)
-ave = x+y+z/3
+ave=(x+y+z)/3
 print(ave)
 
 
