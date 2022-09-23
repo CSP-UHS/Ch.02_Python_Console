@@ -1,5 +1,6 @@
 # This is my learning about python
 # this is another line
+'''
 print(8)
 print("Hello World")
 a=2
@@ -41,3 +42,15 @@ print(type(a))
 print(type(b))
 print(type(c))
 print(type(d))
+'''
+
+a = 4
+b = 5
+c = 20
+d = 30
+if d == 5:
+    print("You found 5!")
+else:
+    print("The number is not 5")
+
+print("done")
