@@ -43,14 +43,25 @@ print(type(b))
 print(type(c))
 print(type(d))
 '''
+#
+# a = 4
+# b = 5
+# c = 20
+# d = 30
+# if d == 5:
+#     print("You found 5!")
+# else:
+#     print("The number is not 5")
+#
+# print("done")
 
-a = 4
-b = 5
-c = 20
-d = 30
-if d == 5:
-    print("You found 5!")
-else:
-    print("The number is not 5")
+#LOOPING
+#range() means how many times the loop repeats
+# for i in range(1,11):
+#     print(i)
 
-print("done")
+# for i in range(0,101,2):
+#     print(i)
+
+for i in range(100, -1, -2):
+    print(i)
