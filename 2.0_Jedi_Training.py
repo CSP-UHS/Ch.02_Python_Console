@@ -41,7 +41,7 @@ a = 3(x + y)
 a
 
 
-5.) What is the mistake in the following code so it will calculate the average? Comment it and fix it!  (3pt)
+5.) This code does not calculate the correct average? Comment it and fix it so it does!  (3pt)
 
 x,y,z =(3,4,5)
 ave = x+y+z/3
